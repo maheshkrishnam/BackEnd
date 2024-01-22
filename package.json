@@ -1,0 +1,14 @@
+{
+  "name": "03_massive",
+  "version": "1.0.0",
+  "description": "Massive Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend"
+  ],
+  "author": "Mahesh Krishnam",
+  "license": "ISC"
+}
